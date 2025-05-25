@@ -2,7 +2,7 @@ import { ProgressItem } from "./types";
 
 export const PROGRESS_ITEMS: ProgressItem[] = [
   {
-    title: "Read Introduction to Machine Learning by Ethem Alpaydin",
+    title: "Complete Andrew Ng's Machine Learning Courses on Coursera",
     percentCompleted: 0
   },
   {
@@ -11,6 +11,10 @@ export const PROGRESS_ITEMS: ProgressItem[] = [
   },
   {
     title: "Read Introduction to Machine Learning by Ethem Alpaydin",
+    percentCompleted: 0
+  },
+  {
+    title: "Read Pattern Recognition and Machine Learning by Christopher Bishop",
     percentCompleted: 0
   },
   {
