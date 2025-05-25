@@ -1,0 +1,28 @@
+import { ProgressItem } from "./types";
+
+export const PROGRESS_ITEMS: ProgressItem[] = [
+  {
+    title: "Complete Andrew Ng's Machine Learning Courses on Coursera",
+    percentCompleted: 0
+  },
+  {
+    title: "Read Introduction to Machine Learning by Ethem Alpaydin",
+    percentCompleted: 0
+  },
+  {
+    title: "Read Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron",
+    percentCompleted: 0
+  },
+  {
+    title: "Read AI Engineering by Chip Huyen",
+    percentCompleted: 10
+  },
+  {
+    title: "Read Hands-On Large Language Models",
+    percentCompleted: 0
+  },
+  {
+    title: "Read Building a Large Language Model from Scratch",
+    percentCompleted: 0
+  }
+];
