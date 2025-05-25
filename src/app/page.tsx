@@ -7,7 +7,7 @@ import { PROGRESS_ITEMS } from "./consts";
 export default function Home() {
 
   return (
-    <div style={{ maxWidth: 600, margin: "2rem auto", fontFamily: "sans-serif" }}>
+    <div style={{ maxWidth: 600, margin: "2rem auto", fontFamily: "sans-serif", padding: "0 2rem" }}>
       <h1 style={{ margin: "2rem 0" }}>Joel Myers&apos;s AI/ML Learning Progress Tracker</h1>
       {PROGRESS_ITEMS.map(({title, percentCompleted}) => (
         <div key={title} style={{ marginBottom: "2rem" }}>
