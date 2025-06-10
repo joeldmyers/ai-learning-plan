@@ -3,7 +3,7 @@ import { ProgressItem } from "./types";
 export const PROGRESS_ITEMS: ProgressItem[] = [
   {
     title: "Complete Andrew Ng's Machine Learning Courses on Coursera (all three parts)",
-    percentCompleted: 15
+    percentCompleted: 20
   },
   {
     title: "Read Why Machines Learn: The Elegant Math Behind Modern AI by Anil Ananthaswamy",
