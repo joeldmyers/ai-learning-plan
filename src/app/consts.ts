@@ -3,7 +3,7 @@ import { ProgressItem } from "./types";
 export const PROGRESS_ITEMS: ProgressItem[] = [
   {
     title: "Complete Andrew Ng's Machine Learning Courses on Coursera (all three parts)",
-    percentCompleted: 20.333
+    percentCompleted: 20.33
   },
   {
     title: "Read Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron",
