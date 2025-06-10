@@ -6,7 +6,7 @@ export const PROGRESS_ITEMS: ProgressItem[] = [
     percentCompleted: 20.333
   },
   {
-    title: "Read Why Machines Learn: The Elegant Math Behind Modern AI by Anil Ananthaswamy",
+    title: "Read Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron",
     percentCompleted: 0
   },
   {
@@ -18,7 +18,7 @@ export const PROGRESS_ITEMS: ProgressItem[] = [
     percentCompleted: 0
   },
   {
-    title: "Read Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron",
+    title: "Read Why Machines Learn: The Elegant Math Behind Modern AI by Anil Ananthaswamy",
     percentCompleted: 0
   },
   {
