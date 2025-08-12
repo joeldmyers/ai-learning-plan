@@ -31,7 +31,7 @@ export const PROGRESS_ITEMS: ProgressItem[] = [
   },
   {
     title: "Read AI Engineering by Chip Huyen",
-    percentCompleted: 18.8
+    percentCompleted: 22.8
   },
   {
     title: "Read Hands-On Large Language Models",
